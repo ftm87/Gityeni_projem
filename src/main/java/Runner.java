@@ -6,5 +6,6 @@ public class Runner {
         System.out.println("versiyon 4");
        // remote degisiklik.
         // remote degisiklik 2.
+        //b kisisi degisiklik yapti
     }
 }
